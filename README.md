@@ -5,7 +5,7 @@
 
 ## Project Description
 Project name **charTrader** is the combination of 2 words - Chart and Trader.  
-The application offers various features that help users analyze stored data in timely manner.  
+The application offers various features that help users analyze stored data in a timely manner.  
 Also trading UI components help quick and easy ordering.     
 
 ## Objectives
