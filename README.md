@@ -38,7 +38,7 @@ Also trading UI components help quick and easy ordering.
     * JavaFX
 * Database
     * MYSQL
-    * DRM
-        * TBD
+    * ORM
+        * Hibenate
 * Build
     * gradle
